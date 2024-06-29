@@ -88,8 +88,6 @@ For further assistance or inquiries, please reach out via the repository's conta
 DESCRIPTION
 ------------
 This project is a real-time weapon detection system utilizing OpenCV and YOLO (You Only Look Once) object detection framework. The system is designed to detect various weapons such as knives, guns, and bombs using a pre-trained YOLOv3 model. The implementation involves loading the YOLO model with custom-trained weights and configuration files, capturing live video feed from the camera, and processing each frame to detect and highlight weapons. The detection results are displayed on the screen with bounding boxes and labels around the detected weapons. This tool is potentially useful for enhancing security measures in public spaces by providing an automated method for weapon detection.
-
-![sample-1](https://github.com/charann29/cmr_opensource/assets/130299325/4249952a-5bfe-41db-b460-79bbe238b978)
 ![sample-2](https://github.com/charann29/cmr_opensource/assets/130299325/02732cda-5175-47bc-86ef-31f15307e2f0)
 
 here is the video for weapon detection using yolo: -
